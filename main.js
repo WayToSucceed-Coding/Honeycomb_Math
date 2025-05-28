@@ -292,7 +292,6 @@ class Play extends Phaser.Scene {
 
         this.startLevelCountdown();
 
-
     }
 
     createSpeakerIcon() {
